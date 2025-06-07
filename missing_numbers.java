@@ -1,5 +1,8 @@
 import java.util.*;
 
+
+//Use sum of n natural number formula;
+
 class missing_numbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
